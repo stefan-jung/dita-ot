@@ -26,7 +26,7 @@ You can download the Oracle JRE or JDK from [oracle.com/technetwork/java][java].
 
 ### Installing on macOS via Homebrew
 
-On macOS, you can also install DITA-OT using the [Homebrew] package manager:
+On macOS and Linux, you can also install DITA-OT using the [Homebrew] package manager:
 
     brew install dita-ot
 
